@@ -41,6 +41,17 @@ Version 1 includes:
 - better icon set
 - optional ad element hiding
 
+## Screenshots
+
+### Popup UI
+![Popup UI](screenshots/popup-ui.png)
+
+### Focus Mode Enabled
+![Focus Mode Enabled](screenshots/focus-mode-on.png)
+
+### YouTube Home
+![YouTube Home](screenshots/youtube-home.png)
+
 ## Project Goal
 
 This project was built as a productivity-focused Chrome extension to help reduce distractions while using YouTube.
