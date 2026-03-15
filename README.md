@@ -44,13 +44,13 @@ Version 1 includes:
 ## Screenshots
 
 ### Popup UI
-![Popup UI](screenshots/popup-ui.png)
+![Popup UI](popup-ui.png)
 
 ### Focus Mode Enabled
-![Focus Mode Enabled](screenshots/focus-mode-on.png)
+![Focus Mode Enabled](focus-mode-on.png)
 
 ### YouTube Home
-![YouTube Home](screenshots/youtube-home.png)
+![YouTube Home](youtube-home.png)
 
 ## Project Goal
 
